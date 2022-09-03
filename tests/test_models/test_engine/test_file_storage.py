@@ -21,9 +21,9 @@ class TestFileStorage(unittest.TestCase):
     def setUpClass(cls):
         """set up for test"""
         cls.user = User()
-        cls.user.first_name = "Pica"
-        cls.user.last_name = "Chu"
-        cls.user.email = "1234@yahoo.com"
+        cls.user.first_name = "Semachew"
+        cls.user.last_name = "Fasika"
+        cls.user.email = "eth.saf.1992@gmail.com"
         cls.storage = FileStorage()
 
     @classmethod
