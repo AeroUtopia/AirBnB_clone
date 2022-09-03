@@ -1,5 +1,5 @@
 # AirBnB_clone - Console that's in charge of managing the models in a common AirBnB application.
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://github.com/AeroUtopia/AirBnB_clone)]
 
 ![Console](https://github.com/AeroUtopia/AirBnB_clone/blob/master/images/console_airbnb.png)
 "Structure of the project"
